@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="71" started-at="2019-06-14T11:08:03Z" finished-at="2019-06-14T11:08:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="71" started-at="2019-06-14T11:08:03Z" finished-at="2019-06-14T11:08:03Z">
+      <class name="com.cdac.demo22.Demo22ApplicationTests">
+        <test-method status="PASS" signature="contextLoads()[pri:0, instance:com.cdac.demo22.Demo22ApplicationTests@5bcab519]" name="contextLoads" duration-ms="18" started-at="2019-06-14T11:08:03Z" finished-at="2019-06-14T11:08:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contextLoads -->
+      </class> <!-- com.cdac.demo22.Demo22ApplicationTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
